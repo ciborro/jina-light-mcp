@@ -1,0 +1,28 @@
+{
+  "name": "jina-mcp-server",
+  "version": "1.0.0",
+  "description": "Jina.AI Reader + Search API MCP Server (HTTP/SSE)",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "jina-mcp-server": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "node dist/index.js",
+    "start": "node dist/index.js",
+    "test": "echo 'No tests yet'",
+    "clean": "rm -rf dist",
+    "install-global": "npm install -g ."
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.0",
+    "zod": "^3.22.4",
+    "yaml": "^2.3.4",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "typescript": "^5.3.3"
+  }
+}
