@@ -15,7 +15,6 @@ Model Context Protocol (MCP) server for Jina.AI Reader and Search APIs.
 ## Documentation
 
 - **[Quick Start](./QUICKSTART.md)** - Get up and running in 5 minutes
-- **[Configuration Guide](./CLAUDE_DESKTOP_CONFIG.md)** - Setup with Claude Desktop, advanced options, and examples
 - **[Error Handling & Troubleshooting](./ERROR_HANDLING.md)** - Common issues and solutions
 
 ## Overview
