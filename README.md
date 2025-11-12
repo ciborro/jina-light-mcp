@@ -2,8 +2,7 @@
 
 Model Context Protocol (MCP) server for Jina.AI Reader and Search APIs.
 
-## Version 1.0.0 - Production Ready ✅
-
+## Version 1.0.0
 **A lightweight, efficient MCP server for Jina.AI APIs**
 - ✅ 9 fully tested MCP tools
 - ✅ Complete Reader and Search API support
