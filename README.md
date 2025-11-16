@@ -40,7 +40,7 @@ This MCP server provides 9 tools to interact with Jina.AI APIs:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ciborro/jina-mcp-server.git
+git clone https://github.com/ciborro/jina-light-mcp.git
 cd jina-mcp-server
 
 # Install dependencies
