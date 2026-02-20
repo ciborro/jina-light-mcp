@@ -1,3 +1,6 @@
+THIS IS ARCHIVE
+Find better succesor: https://github.com/ciborro/webskim
+
 # Jina MCP Server
 
 Model Context Protocol (MCP) server for Jina.AI Reader and Search APIs.
